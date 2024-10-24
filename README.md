@@ -48,16 +48,16 @@ Provide installation steps so users can easily get started
 ## 7. Usage
 Give examples of how to use your project:
 ## Usage
-**bash
-To run the project:
-npm start
+	**bash
+	To run the project:
+	npm start
 
 ## 8. Code Blocks
 Add code snippets:
 ## Example Code
-**python
-def jazz_up_readme():
-print("Your README is now awesome!")
+	**python
+	def jazz_up_readme():
+	print("Your README is now awesome!")
 
 ## 9. Contributing Guidelines
 Encourage others to contribute:
