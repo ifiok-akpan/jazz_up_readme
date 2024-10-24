@@ -8,8 +8,10 @@ Start with a large title to introduce your project:
 
 ## 2. Badges
 
-Use badges to show key information like build status, code coverage, or downloads. You can find badges from sites like Shields.io.
+Use badges to show key information like build status, code coverage, or downloads. You can find badges from sites like Shields.io ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io)
+
 ![GitHub branch status](https://img.shields.io/github/checks-status/ifiok-akpan/jazz_up_readme/main)
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ## 3. Project Description
