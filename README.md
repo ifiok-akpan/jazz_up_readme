@@ -9,7 +9,6 @@ Start with a large title to introduce your project:
 ## 2. Badges
 
 Use badges to show key information like build status, code coverage, or downloads. You can find badges from sites like ![Shields.io](https://shields.io) 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io)
 
 ![GitHub branch status](https://img.shields.io/github/checks-status/ifiok-akpan/jazz_up_readme/main)
 
@@ -106,7 +105,9 @@ You add social media links using markdown on shields.io
 
 ## Example Links:
 - Twitter badge:
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fiameseme)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/iameseme)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin)](https://www.linkedin.com/in/ifiok-akpan-360b69166/)
 
